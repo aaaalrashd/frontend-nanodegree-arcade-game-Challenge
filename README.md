@@ -2,7 +2,7 @@
 ===============================</h1>
 
 <h1> Introduction </h1>
-<p> this is my 5th projct for frontend nanodegree and you can test yourself if you know Javascript from <a href="https://github.com/udacity/frontend-nanodegree-arcade-game" >here</a></p>
+<p> this is my 5th projct for frontend nanodegree and you can test yourself if you know Javascript from <a href="hhttps://github.com/aaaalrashd/frontend-nanodegree-arcade-game-Challenge" >here</a></p>
 
 <h1> Installation </h1>
 <p> Clone the file or download it for your computer ad runnig it prees <a href="https://github.com/aaaalrashd/frontend-nanodegree-arcade-game-Challenge" >here</a> </p>

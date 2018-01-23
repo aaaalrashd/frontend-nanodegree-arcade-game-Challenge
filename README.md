@@ -23,7 +23,7 @@ you can move by arrows or  "A,W,D,S"
 
 <hr>
 <h1> Contact </h1>
-<p>Can you contact with me</p>
+<p>You can contact with me :</p>
 <ul>
 <li>Email: aaaalrashd@gmail.com</li>
 <li>Mobile : +966561113041</li>
